@@ -1,2 +1,1 @@
-# PREDICT AI BOT
 # Mlpy
